@@ -12,4 +12,4 @@
 
 ## Приклад виконання програми
 
-<img src="/images/Exmple.png" width="100%"/>
+<img src="/images/Exmaple.png" width="100%"/>
